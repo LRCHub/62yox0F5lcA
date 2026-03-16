@@ -1,0 +1,24 @@
+{
+  "version": 1,
+  "base_track": "プリーズ・プリーズ・プリーズ",
+  "base_artist": "Sabrina Carpenter",
+  "createdAt": "2026-03-16T23:04:28.059642Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "プリーズ、プリーズ、プリーズ。",
+      "artist": "MIYAVI",
+      "has_synced": false,
+      "path": "select/01_プリーズ、プリーズ、プリーズ。_MIYAVI.txt"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Please Please Please",
+      "artist": "Sabrina Carpenter",
+      "has_synced": false,
+      "path": "select/pl_01_Please_Please_Please_Sabrina_Carpenter.txt"
+    }
+  ]
+}
